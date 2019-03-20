@@ -1,0 +1,16 @@
+﻿  Cell.cpp
+  Main.cpp
+  GameMap.cpp
+c:\users\skaro\source\repos\game of life\game of life\gamemap.cpp(13): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\skaro\source\repos\game of life\game of life\gamemap.cpp(15): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\skaro\source\repos\game of life\game of life\gamemap.cpp(33): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+c:\users\skaro\source\repos\game of life\game of life\gamemap.cpp(57): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+c:\users\skaro\source\repos\game of life\game of life\gamemap.cpp(69): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+c:\users\skaro\source\repos\game of life\game of life\gamemap.cpp(80): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+c:\users\skaro\source\repos\game of life\game of life\gamemap.cpp(100): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+c:\users\skaro\source\repos\game of life\game of life\gamemap.cpp(145): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\skaro\source\repos\game of life\game of life\gamemap.cpp(168): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\skaro\source\repos\game of life\game of life\gamemap.cpp(170): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  UI.cpp
+  Generowanie kodu...
+  Game of Life.vcxproj -> C:\Users\skaro\source\repos\Game of Life\Debug\Game of Life.exe
