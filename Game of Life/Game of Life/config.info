@@ -1,0 +1,6 @@
+map
+{
+    cylindrical true
+    topBottom true
+}
+history true
